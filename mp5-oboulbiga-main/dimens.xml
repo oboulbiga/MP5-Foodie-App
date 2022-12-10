@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="norm_marg">10dp</dimen>
+    <dimen name="norm_text">16sp</dimen>
+    <dimen name="norm_padding">10dp</dimen>
+    <dimen name="score_text">20sp</dimen>
+    <dimen name="winner_text">30sp</dimen>
+
+    <dimen name="tv_padding" />
+    <dimen name="add_item_textsize" />
+    <dimen name="add_item_viewPadding" />
+    <dimen name="addItem_activityTextSize" />
+    <dimen name="add_item_textpadding" />
+    <dimen name="cardview_padding" />
+
+
+</resources>
